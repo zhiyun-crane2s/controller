@@ -23,3 +23,21 @@ I created a super rough 3d model. My first time properly using blender
 ![day1.png](journal-media/day1.png)
 
 **Total time spent: 2h**
+
+# 20/7/25: Figured out the UX, time to code
+
+Finally figured out the UX and the feature, which I consider to be one of the hardest things about any projects.
+I've now got a clear idea about what exactly this project's going to have, except for making the potentiometers have 
+like a little spring built in. I swear I've seen those on RC car remotes but can't find them anywhere else.
+
+Got started with the code and laid out some starter code. I've got no hardware currently so everything's untested and 
+will be until I've written all the code. So it pretty much works _in theory,_ but we all know how much 'in theory' stuff 
+works when it comes to code lmao. 
+
+I learnt a lot about cpp and the basics of arduino. It's gonna be a wild ride getting into a project like this with zero
+experience from beforehand.
+
+I've gotta start with the actual settings page and the webserver + Wi-Fi network for it hopefully tomorrow, and then 
+the communication with the gimbal/app.
+
+Total time spent: 2.5h
