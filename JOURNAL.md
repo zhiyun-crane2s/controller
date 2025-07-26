@@ -40,4 +40,4 @@ experience from beforehand.
 I've gotta start with the actual settings page and the webserver + Wi-Fi network for it hopefully tomorrow, and then 
 the communication with the gimbal/app.
 
-Total time spent: 2.5h
+**Total time spent: 2.5h**
